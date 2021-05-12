@@ -22,6 +22,6 @@ I am Elharem Soufiane 😃, a computer science student at @INPT (National Instit
 
 - My LinkedIn profil: https://www.linkedin.com/in/elharem-soufiane/
   
-- My email adress : elharem.soufiane@inemail.ine.inpt.ma
+- My email address : elharem.soufiane@inemail.ine.inpt.ma
 
 Have a nice day 😊 !
