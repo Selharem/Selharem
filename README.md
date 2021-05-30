@@ -16,6 +16,13 @@ I am Elharem Soufiane 😃, a competitive programmer & computer science student 
 ![image](https://user-images.githubusercontent.com/44909504/118012425-912f3100-b340-11eb-8651-aa5ea7e22db6.png)
 ![image](https://user-images.githubusercontent.com/44909504/118012547-b4f27700-b340-11eb-8d74-6a9c8c0f7c06.png)
 
+### Competitive Programming : 
+
+- leetcode : https://leetcode.com/selharem/
+
+- Open Kattis : https://open.kattis.com/users/selharem
+
+- Codeforces : https://codeforces.com/profile/selharem
 
 
 📫 How to reach me: 
