@@ -16,7 +16,12 @@ I am Elharem Soufiane 😃, a competitive programmer & computer science student 
 ![image](https://user-images.githubusercontent.com/44909504/118012425-912f3100-b340-11eb-8651-aa5ea7e22db6.png)
 ![image](https://user-images.githubusercontent.com/44909504/118012547-b4f27700-b340-11eb-8d74-6a9c8c0f7c06.png)
 
-### Competitive Programming : 
+
+### ⚡ GitHub Stats
+![Selharem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selharem&show_icons=true&theme=radical)
+
+
+### 💻 Competitive Programming : 
 
 - leetcode : https://leetcode.com/selharem/
 
@@ -25,7 +30,7 @@ I am Elharem Soufiane 😃, a competitive programmer & computer science student 
 - Codeforces : https://codeforces.com/profile/selharem
 
 
-📫 How to reach me: 
+### 📫 Reach me: 
 
 - My LinkedIn profil: https://www.linkedin.com/in/elharem-soufiane/
   
