@@ -31,14 +31,15 @@ I am Elharem Soufiane 😃, a competitive programmer & computer science student 
 
 
 ### 📫 Reach me: 
-
-
-- My LinkedIn profil: https://www.linkedin.com/in/elharem-soufiane/
   
 - My email address : elharem.soufiane@inemail.ine.inpt.ma
 
 ### Connect with me: 
-<img src="./linkedin.svg" href="https://www.linkedin.com/in/elharem-soufiane/" height="30" width="40">
+<a href="https://www.linkedin.com/in/elharem-soufiane/" target="blank"><img align="center" src="./linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/selharem" target="blank"><img align="center" src="./twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13365157/selharem" target="blank"><img align="center" src="./stackoverflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+<a href="https://leetcode.com/selharem/" target="blank"><img align="center" src="./leetcode.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/selharem" target="blank"><img align="center" src="./codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 
 
 Have a nice day 😊 !
