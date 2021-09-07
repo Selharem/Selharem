@@ -32,8 +32,13 @@ I am Elharem Soufiane 😃, a competitive programmer & computer science student 
 
 ### 📫 Reach me: 
 
+
 - My LinkedIn profil: https://www.linkedin.com/in/elharem-soufiane/
   
 - My email address : elharem.soufiane@inemail.ine.inpt.ma
+
+### Connect with me: 
+<img src="./linkedin.svg" href="https://www.linkedin.com/in/elharem-soufiane/" height="30" width="40">
+
 
 Have a nice day 😊 !
