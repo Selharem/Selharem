@@ -7,7 +7,7 @@ I am Elharem Soufiane 😃, a competitive programmer & computer science student 
 - 🌐 &nbsp; React | Gatsby | Node Js | Spring | Express Js | Redux | GraphQL | Material UI | Bootstrap | HTML | CSS
 - 📱 &nbsp; Android (Java | Kotlin) | Flutter
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
-- 🔧 &nbsp; Git | Markdown | Postman
+- 🔧 &nbsp; Git | Markdown | Postman | Docker
 - 🖥 &nbsp; Adobe XD | Figma
 - ✍️ &nbsp; Visual studio code | IntelliJ IDEA
 
