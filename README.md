@@ -2,14 +2,14 @@
 
 I am Elharem Soufiane 😃, a competitive programmer & computer science student at @INPT (National Institute of Posts and Telecommunications) in Morocco. I am interested at learning new technologies in software development field, especially the ones related to web and mobile development.
 
-### 👨‍💻 Technologies & tools: 
-
-![image](https://user-images.githubusercontent.com/44909504/118011835-f7678400-b33f-11eb-8922-8ce035e533a4.png) 
-![image](https://user-images.githubusercontent.com/44909504/118011696-e0c12d00-b33f-11eb-9f8a-10030e9d2d6b.png)
-![image](https://user-images.githubusercontent.com/44909504/118011886-064e3680-b340-11eb-8020-8c56446390ac.png)
-![image](https://user-images.githubusercontent.com/44909504/118012081-37c70200-b340-11eb-9c16-a62473794d49.png)
-![image](https://user-images.githubusercontent.com/44909504/118012145-46adb480-b340-11eb-9619-b3b71c4ab6cd.png)
-![image](https://user-images.githubusercontent.com/44909504/118012203-54633a00-b340-11eb-9cc5-6a7081dad7f3.png)
+### 🛠 Tech Stack : 
+- 💻 &nbsp; C++ | Java
+- 🌐 &nbsp; React | Gatsby | Node Js | Spring | Express Js | Redux | GraphQL | Material UI | Bootstrap | HTML | CSS
+- 📱 &nbsp; Android (Java | Kotlin) | Flutter
+- 🛢 &nbsp; MySQL | MongoDB | Firebase
+- 🔧 &nbsp; Git | Markdown | Postman
+- 🖥 &nbsp; Adobe XD | Figma
+- ✍️ &nbsp; Visual studio code | IntelliJ IDEA
 
 ### ❤️ Interests : 
 ![image](https://user-images.githubusercontent.com/44909504/118012375-7fe62480-b340-11eb-8fce-9fd3a25560c8.png)
