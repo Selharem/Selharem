@@ -34,7 +34,7 @@ I am Elharem Soufiane 😃, a competitive programmer & computer science student 
   
 - My email address : elharem.soufiane@inemail.ine.inpt.ma
 
-### Connect with me: 
+### 🤝🏻 Connect with me: 
 <a href="https://www.linkedin.com/in/elharem-soufiane/" target="blank"><img align="center" src="./linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/selharem" target="blank"><img align="center" src="./twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13365157/selharem" target="blank"><img align="center" src="./stackoverflow.svg" alt="stackoverflow" height="30" width="40" /></a>
