@@ -8,6 +8,7 @@ I am Elharem Soufiane 😃, a competitive programmer , online instructor & compu
 - 📱 &nbsp; Android (Java | Kotlin) | Flutter
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
 - 🔧 &nbsp; Git | Markdown | Postman | Docker
+- 🚀 Heroku | Netlify
 - 🖥 &nbsp; Adobe XD | Figma
 - ✍️ &nbsp; Visual studio code | IntelliJ IDEA
 
