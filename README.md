@@ -20,6 +20,8 @@ I am Elharem Soufiane 😃, a competitive programmer , online instructor & compu
 
 ### ⚡ GitHub Stats
 ![Selharem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selharem&show_icons=true&theme=radical)
+### 💻 Blogs : 
+ - Medium : <a href="https://medium.com/@selharem/api-design-101-build-a-nodejs-rest-microservice-using-github-apis-3d563af71ce0">API design 101 : build a nodejs REST microservice using GITHUB APIs</a>
 
 
 ### 💻 Competitive Programming : 
@@ -33,11 +35,12 @@ I am Elharem Soufiane 😃, a competitive programmer , online instructor & compu
 
 ### 📫 Reach me: 
   
-- My email address : elharem.soufiane@inemail.ine.inpt.ma
+- My email address : elharem.soufiane@ine.inpt.ma
 
 ### 🤝🏻 Connect with me: 
 <a href="https://www.linkedin.com/in/elharem-soufiane/" target="blank"><img align="center" src="./linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/selharem" target="blank"><img align="center" src="./twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://medium.com/@selharem" target="blank"><img align="center" src="./medium.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13365157/selharem" target="blank"><img align="center" src="./stackoverflow.svg" alt="stackoverflow" height="30" width="40" /></a>
 <a href="https://leetcode.com/selharem/" target="blank"><img align="center" src="./leetcode.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/selharem" target="blank"><img align="center" src="./codeforces.svg" alt="codeforces" height="30" width="40" /></a>
