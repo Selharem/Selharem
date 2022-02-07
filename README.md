@@ -35,7 +35,7 @@ I am Elharem Soufiane 😃, a competitive programmer , online instructor & compu
 
 ### 📫 Reach me: 
   
-- My email address : elharem.soufiane@ine.inpt.ma
+- My email address : soufianeelharem1@gmail.com
 
 ### 🤝🏻 Connect with me: 
 <a href="https://www.linkedin.com/in/elharem-soufiane/" target="blank"><img align="center" src="./linkedin.svg" alt="linkedin" height="30" width="40" /></a>
