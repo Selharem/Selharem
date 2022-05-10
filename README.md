@@ -4,7 +4,7 @@ I am Elharem Soufiane 😃, a competitive programmer , online instructor & compu
 
 ### 🛠 Tech Stack : 
 - 💻 &nbsp; &nbsp;C++ | Java
-- 🌐&nbsp; &nbsp; React | Gatsby | Node Js | Spring | Express Js | Redux | GraphQL | Material UI | Bootstrap | HTML | CSS
+- 🌐&nbsp; &nbsp; React | Node Js | Spring | Express Js | Material UI | Bootstrap | HTML | CSS
 - 📱 &nbsp;  &nbsp; Android (Java | Kotlin) | Flutter
 - 🛢 &nbsp;&nbsp; MySQL | MongoDB | Firebase
 - 🔧 &nbsp; Git | Markdown | Postman | Docker
