@@ -3,10 +3,10 @@
 I am Elharem Soufiane 😃, a competitive programmer , online instructor & computer science student at @INPT (National Institute of Posts and Telecommunications) in Morocco. I am interested at learning new technologies in software development field, especially the ones related to web and mobile development.
 
 ### 🛠 Tech Stack : 
-- 💻 &nbsp; &nbsp;C++ | Java
-- 🌐&nbsp; &nbsp; React | Node Js | Spring | Express Js | Material UI | Bootstrap | HTML | CSS
+- 💻 &nbsp; &nbsp;JavaScript | Java
+- 🌐&nbsp; &nbsp; Node.js | Express.js | Angular | React | HTML | CSS | Bootstrap | Tailwind CSS
 - 📱 &nbsp;  &nbsp; Android (Java | Kotlin) | Flutter
-- 🛢 &nbsp;&nbsp; MySQL | MongoDB | Firebase
+- 🛢 &nbsp;&nbsp; MongoDB | MySQL 
 - 🔧 &nbsp; Git | Markdown | Postman | Docker
 - 🚀 &nbsp; Heroku | Netlify
 - 🖥 &nbsp; Adobe XD | Figma
