@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Elharem Soufiane 😃, a competitive programmer , online instructor & computer science student at @INPT (National Institute of Posts and Telecommunications) in Morocco. I am interested at learning new technologies in software development field, especially the ones related to web and mobile development.
+I am Elharem Soufiane 😃, a software engineer and computer science student at Paris Dauphine-PSL university. I am interested at learning new technologies in software development field, especially the ones related to web development.
 
 ### 🛠 Tech Stack : 
 - 💻 &nbsp; &nbsp;JavaScript | Java
