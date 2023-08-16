@@ -17,9 +17,6 @@ I am Elharem Soufiane 😃, a software engineer and computer science student at 
 ![image](https://user-images.githubusercontent.com/44909504/118012425-912f3100-b340-11eb-8651-aa5ea7e22db6.png)
 ![image](https://user-images.githubusercontent.com/44909504/118012547-b4f27700-b340-11eb-8d74-6a9c8c0f7c06.png)
 
-
-### ⚡ GitHub Stats
-![Selharem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selharem&show_icons=true&theme=radical)
 ### 💻 Blogs : 
  - Medium : <a href="https://medium.com/@selharem/api-design-101-build-a-nodejs-rest-microservice-using-github-apis-3d563af71ce0">API design 101 : build a nodejs REST microservice using GITHUB APIs</a>
 
