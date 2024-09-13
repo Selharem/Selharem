@@ -2,14 +2,6 @@
 
 I am Elharem Soufiane 😃, a software engineer. I am interested at learning new technologies in software development field, especially the ones related to web development.
 
-### 🛠 Tech Stack : 
-- 💻 &nbsp;&nbsp; Java | JavaScript.
-- 🌐 &nbsp;&nbsp; Spring | Angular.
-- 🛢 &nbsp; &nbsp;  PosgreSQL | MySQL | MongoDB.
-- 🔧 &nbsp;&nbsp; Git | Postman | Docker.
-- 🧪 &nbsp;&nbsp; JUnit | Cucumber.
-- ✍️ &nbsp;&nbsp; IntelliJ IDEA | Visual studio code.
-
 ### 💻 Blogs : 
  - <a href="https://medium.com/@selharem/write-your-first-bdd-using-cucumber-389ce16109f5">Write your first BDD tests using Cucumber</a>.
  - <a href="https://medium.com/@selharem/api-design-101-build-a-nodejs-rest-microservice-using-github-apis-3d563af71ce0">API design 101 : build a nodejs REST microservice using GITHUB APIs</a>.
