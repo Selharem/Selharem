@@ -7,16 +7,6 @@ I am Elharem Soufiane 😃, a software engineer. I am interested at learning new
  - <a href="https://medium.com/@selharem/api-design-101-build-a-nodejs-rest-microservice-using-github-apis-3d563af71ce0">API design 101 : build a nodejs REST microservice using GITHUB APIs</a>.
 
 
-
-### 💻 Competitive Programming : 
-
-- leetcode : https://leetcode.com/selharem/
-
-- Open Kattis : https://open.kattis.com/users/selharem
-
-- Codeforces : https://codeforces.com/profile/selharem
-
-
 ### 📫 Reach me: 
   
 - My email address : soufianeelharem1@gmail.com
